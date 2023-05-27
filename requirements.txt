@@ -4,4 +4,4 @@ keras
 opencv-contrib-python-headless
 tensorflow-cpu
 streamlit_webrtc
-python==3.7.11
+python==3.7
